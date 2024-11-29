@@ -38,7 +38,7 @@ nav a{
 }
 
 nav a:hover{
-    color: orange;
+    color: rgb(0, 255, 221);
     border-bottom: 2px solid gold;
 }
 
