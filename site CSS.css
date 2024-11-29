@@ -13,6 +13,7 @@ nav{
     margin: 0 auto;
     background-color: white;
     position: sticky;
+    border: gold;
     top: 0px;
 }
 
