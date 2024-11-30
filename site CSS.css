@@ -4,13 +4,13 @@ body{
 h2{
     text-align: center;
     color: white;
-    background-color: black;
+    background-image: url(https://img.freepik.com/premium-vector/abstract-geometric-pattern-with-crosses-stripes-lines-seamless-vector-background-black-gold_976307-1070.jpg);
 }
 
 h1{
     text-align: center;
     color: white;
-    background: black;
+    background-image:url(https://img.freepik.com/premium-vector/abstract-geometric-pattern-with-crosses-stripes-lines-seamless-vector-background-black-gold_976307-1070.jpg);
 }
 
 *{
