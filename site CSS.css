@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(223, 220, 220);    
+    background-image: url("https://www.youtube.com/img/desktop/yt_1200.png");    
 }
 
 h2{
@@ -81,7 +81,6 @@ nav > ul li:hover .sous{
 .sous a:hover{
     border-bottom: gold;
     background-color: whitesmoke;
-    background-image: url("https://www.youtube.com/img/desktop/yt_1200.png")
 }
 .deroulant > a::after{
     content:" ▼";
