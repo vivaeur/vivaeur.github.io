@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(255, 255, 255, 0.425);    
+    background-color: grey;    
 }
 
 
@@ -16,7 +16,7 @@ h1{
 nav{
     width: 100%;
     margin: 0 auto;
-    background-color: rgba(255, 255, 255, 0.425);
+    background-color: grey;
     position: sticky;
     border: gold;
     top: 0px;
@@ -55,7 +55,7 @@ nav a:hover{
 .sous{
     display: none;
     box-shadow: 0px 1px 2px #CCC;
-    background-color: rgba(255, 255, 255, 0.425);
+    background-color: grey;
     position: absolute;
     width: 100%;
     z-index: 1000;
@@ -74,7 +74,7 @@ nav > ul li:hover .sous{
 }
 .sous a:hover{
     border-bottom: none;
-    background-color: RGBa(200,200,200,0.1);
+    background-color: grey;
 }
 .deroulant > a::after{
     content:" ▼";
