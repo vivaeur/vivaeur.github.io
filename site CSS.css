@@ -103,24 +103,21 @@ ul {
     list-style-type: none;
 }
   
-textarea {
-    width: 100%;
-    padding: 20px;
-    font-size: 15px;
-    outline: none;
-    border: 1px solid #613bdb;
-    border-radius: 10px;
-    background: #c1c9df;
+p {
+    font-family: sans-serif;
+    background: #eee;
+    padding: 0.5rem;
+    border: 2px solid #eee;
   }
-  
-  button {
-    height: 45px;
-    width: 155px;
-    color: #fff;
-    background: #613bdb;
-    border: none;
-    border-radius: 5px;
-    font-weight: 400;
-    margin-top: 8px;
-    cursor: pointer;
+  p span {
+    border: 2px solid #ccc;
+    padding: 0.5rem;
+    background: #fff;
+  }
+  p .js-copy {
+    background: hotpink;
+    color: white;
+    padding: 0.5rem;
+    border: 2px solid rebeccapurple;
+    font-size: inherit;
   }
