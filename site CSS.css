@@ -74,7 +74,7 @@ nav > ul li:hover .sous{
 .sous li{
     float: none;
     width: 100%;
-    text-align: right;
+    text-align: left;
 }
 .sous a{
     padding: 10px;
