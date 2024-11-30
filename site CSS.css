@@ -4,11 +4,13 @@ body{
 h2{
     text-align: center;
     color: white;
+    background-color: black;
 }
 
 h1{
     text-align: center;
     color: white;
+    background: black;
 }
 
 *{
