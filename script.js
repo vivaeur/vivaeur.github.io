@@ -16,12 +16,10 @@ function docopy() {
     try {
         var result = document.execCommand('copy');
         if (result) {
-            // La copie a réussi
-            alert('Copié !');
+            alert('tu as mon adresse mail ');
         }
     }
     catch(err) {
-        // Une erreur est surevnue lors de la tentative de copie
         alert(err);
     }
 
