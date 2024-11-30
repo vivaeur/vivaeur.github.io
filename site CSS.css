@@ -71,11 +71,11 @@ nav > ul li:hover .sous{
 .sous li{
     float: none;
     width: 100%;
-    text-align: left;
+    text-align: center;
 }
 .sous a{
     padding: 10px;
-    border-bottom: red;
+    border-bottom: balck;
 }
 .sous a:hover{
     border-bottom: gold;
