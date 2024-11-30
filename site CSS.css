@@ -3,10 +3,12 @@ body{
 }
 h2{
     text-align: center;
+    color: white
 }
 
 h1{
     text-align: center;
+    color: white
 }
 
 *{
@@ -46,7 +48,7 @@ nav ul::after{
 nav a{
     display: block;
     text-decoration: none;
-    color: rgb(255, 255, 255);
+    color: black;
     border-bottom: 2px solid transparent;
     padding: 10px 0px;
     border: gold;
@@ -89,4 +91,5 @@ nav > ul li:hover .sous{
 .conteneur{
   margin: 50px 20px;
   height: 1500px;
+  color: white
 }
