@@ -19,7 +19,7 @@ h1{
 nav{
     width: 100%;
     margin: 0 auto;
-    background-color: grey;
+    background-color: white;
     position: sticky;
     border: gold;
     top: 0px;
@@ -61,7 +61,7 @@ nav a:hover{
 .sous{
     display: none;
     box-shadow: 0px 1px 2px #CCC;
-    background-color: grey;
+    background-color: white;
     position: absolute;
     width: 100%;
     z-index: 1000;
