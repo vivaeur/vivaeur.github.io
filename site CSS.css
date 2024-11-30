@@ -54,7 +54,7 @@ nav a{
 }
 
 nav a:hover{
-    color: yellow;
+    color: goldenrod;
     border-bottom: 2px solid gold;
 }
 
@@ -81,7 +81,7 @@ nav > ul li:hover .sous{
 .sous a:hover{
     border-bottom: gold;
     background-color: whitesmoke;
-    img src="https://www.youtube.com/img/desktop/yt_1200.png"
+    background-image: https://www.youtube.com/img/desktop/yt_1200.png
 }
 .deroulant > a::after{
     content:" ▼";
