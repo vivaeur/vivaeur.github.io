@@ -4,28 +4,14 @@ body{
 h1{
     text-align: center;
     color: white;
-    background-color: rgba(209, 55, 16, 0.103);
+    background-color: rgba(255, 217, 0, 0.096);
 }
+
 
 h2{
     text-align: center;
     color: white;
-    background-color: rgba(209, 55, 16, 0.103);
-}
-
-h3{
-    background-color: black;
-    
-}
-
-h4{
-    background-color: black;
-    
-}
-
-h5{
-    background-color: black;
-    
+    background-color: rgba(255, 217, 0, 0.096);
 }
 
 
@@ -39,14 +25,12 @@ h5{
 nav{
     width: 100%;
     margin: 0 auto;
-    background-color: rgba(209, 55, 16, 0.103);
-    border-color: gold;
+    background-color: rgba(255, 217, 0, 0.096);
     position: sticky;
     border: gold;
     top: 0px;
-    
 }
-a
+
 
 nav ul{
     list-style-type: none;
@@ -54,10 +38,11 @@ nav ul{
 
 nav ul li{
     float: left;
-    width: 25%;
+    width: 24.8%;
     text-align: center;
     position: relative;
     border: gold;
+    border: 1px solid gold;
 }
 
 nav ul::after{
@@ -84,7 +69,7 @@ nav a:hover{
 .sous{
     display: none;
     border: gold;
-    background-color: rgb(5, 0, 0);
+    background-color: rgb(0, 0, 0);
     position: absolute;
     width: 100%;
     z-index: 1000;
@@ -100,11 +85,11 @@ nav > ul li:hover .sous{
 }
 .sous a{
     padding: 10px;
-    border-bottom: rgba(209, 55, 16, 0.103);
+    border-bottom: rgba(255, 217, 0, 0.096);
 }
 .sous a:hover{
     border-bottom: gold;
-    background-color: rgba(209, 55, 16, 0.103);
+    background-color: rgba(255, 217, 0, 0.096);
 }
 .deroulant > a::after{
     content:" ▼";
@@ -132,9 +117,23 @@ p {
     background: whitesmoke;
   }
   p .js-copy {
-    background: rgba(209, 55, 16, 0.103);
+    background: rgba(255, 217, 0, 0.096);
     color: white;
     padding: 0.5rem;
     border: 2px solid gold;
     font-size: inherit;
   }
+
+
+.clock{
+    text-align: right;
+    font-size: 0.8em;
+    color: gold;
+    }
+
+.clock span{
+   
+   font-family: Arial, Helvetica, sans-serif;
+   padding: 5px;
+   color: gold;
+}
