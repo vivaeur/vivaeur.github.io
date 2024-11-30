@@ -81,6 +81,7 @@ nav > ul li:hover .sous{
 .sous a:hover{
     border-bottom: gold;
     background-color: grey;
+    img src="https://www.youtube.com/img/desktop/yt_1200.png"
 }
 .deroulant > a::after{
     content:" ▼";
