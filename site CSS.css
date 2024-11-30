@@ -1,4 +1,4 @@
-head{
+body{
     background-image:url(https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-black-minimalist-atmospheric-wooden-background-backgroundwooden-backgroundtree-texture-image_77053.jpg) ;   
 }
 h2{
@@ -46,7 +46,7 @@ nav ul::after{
 nav a{
     display: block;
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
     border-bottom: 2px solid transparent;
     padding: 10px 0px;
     border: gold;
@@ -75,7 +75,7 @@ nav > ul li:hover .sous{
 }
 .sous a{
     padding: 10px;
-    border-bottom: balck;
+    border-bottom: black;
 }
 .sous a:hover{
     border-bottom: gold;
