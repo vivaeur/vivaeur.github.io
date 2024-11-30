@@ -3,12 +3,12 @@ body{
 }
 h2{
     text-align: center;
-    color: white
+    color: white;
 }
 
 h1{
     text-align: center;
-    color: white
+    color: white;
 }
 
 *{
@@ -21,6 +21,7 @@ nav{
     width: 100%;
     margin: 0 auto;
     background-color: white;
+    border: gold;
     position: sticky;
     border: gold;
     top: 0px;
@@ -91,5 +92,5 @@ nav > ul li:hover .sous{
 .conteneur{
   margin: 50px 20px;
   height: 1500px;
-  color: white
+  color: white;
 }
