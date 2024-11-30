@@ -76,10 +76,10 @@ nav > ul li:hover .sous{
 }
 .sous a{
     padding: 10px;
-    border-bottom: none;
+    border-bottom: red;
 }
 .sous a:hover{
-    border-bottom: none;
+    border-bottom: gold;
     background-color: grey;
 }
 .deroulant > a::after{
