@@ -78,7 +78,7 @@ nav > ul li:hover .sous{
 }
 .sous a{
     padding: 10px;
-    border-bottom: black;
+    border-bottom: rgb(255, 255, 255);
 }
 .sous a:hover{
     border-bottom: gold;
