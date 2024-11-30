@@ -4,13 +4,13 @@ body{
 h2{
     text-align: center;
     color: white;
-    background-color: goldenrod;
+    background-color: rgb(126, 110, 72);
 }
 
 h1{
     text-align: center;
     color: white;
-    background-color: goldenrod;
+    background-color: rgb(121, 90, 12);
 }
 
 *{
