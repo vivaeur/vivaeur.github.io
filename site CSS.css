@@ -4,13 +4,13 @@ body{
 h2{
     text-align: center;
     color: white;
-    background-image: url(https://img.freepik.com/premium-vector/seamless-geometric-pattern-by-stripes-line-seamless-vector-background-black-texture_3811-7357.jpg);
+    background-color: goldenrod;
 }
 
 h1{
     text-align: center;
     color: white;
-    background-image:url(https://img.freepik.com/premium-vector/seamless-geometric-pattern-by-stripes-line-seamless-vector-background-black-texture_3811-7357.jpg);
+    background-color: goldenrod;
 }
 
 *{
