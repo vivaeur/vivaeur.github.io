@@ -81,7 +81,7 @@ nav > ul li:hover .sous{
 .sous a:hover{
     border-bottom: gold;
     background-color: whitesmoke;
-    background-image: https://www.youtube.com/img/desktop/yt_1200.png
+    background-image: url("https://www.youtube.com/img/desktop/yt_1200.png")
 }
 .deroulant > a::after{
     content:" ▼";
