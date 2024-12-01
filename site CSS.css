@@ -1,19 +1,13 @@
 body{
     background-image:url(https://static.vecteezy.com/ti/vecteur-libre/p1/21680298-sans-couture-geometrique-modele-avec-rayures-moderne-vecteur-contexte-avec-repeter-lignes-fonce-modele-luxe-monochrome-toile-de-fond-texture-pour-emballage-papier-l-image-de-marque-affaires-entreprise-style-gratuit-vectoriel.jpg)  
 }
-h1{
-    text-align: center;
-    color: white;
-    background-color: rgba(255, 217, 0, 0.096);
+
+
+
+.imagehaut{
+    width = 25% 
+    height = 35%
 }
-
-
-h2{
-    text-align: center;
-    color: white;
-    background-color: rgba(255, 217, 0, 0.096);
-}
-
 
 
 *{
@@ -55,7 +49,7 @@ nav ul::after{
 nav a{
     display: block;
     text-decoration: none;
-    color: white;
+    color: rgb(153, 151, 151);
     border-bottom: 2px solid transparent;
     padding: 10px 0px;
     border: gold;
@@ -100,7 +94,7 @@ nav > ul li:hover .sous{
 .conteneur{
   margin: 50px 20px;
   height: 1500px;
-  color: white;
+  color: rgb(153, 151, 151);
 }
 
 ul {
@@ -118,7 +112,7 @@ p {
   }
   p .js-copy {
     background: rgba(255, 217, 0, 0.096);
-    color: white;
+    color: rgb(153, 151, 151);
     padding: 0.5rem;
     border: 2px solid gold;
     font-size: inherit;
@@ -127,13 +121,68 @@ p {
 
 .clock{
     text-align: centee;
-    font-size: 0.8em;
-    color: gold;
+    font-size: 2.15em;
+    color: white;
     }
 
 .clock span{
    
    font-family: Arial, Helvetica, sans-serif;
-   padding: 5px;
-   color: gold;
+   padding: px;
+   color: rgb(153, 151, 151);
 }
+
+  .heading {
+    font-family: "Playfair Display", serif;
+    font-size: 10vw;
+  }
+  
+  .subheading {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1em;
+    line-height: 1.5;
+  }
+  
+  @media screen and (min-width: 40em) {
+    .heading {
+      font-size: 5vw;
+    }
+
+
+    .subheading {
+      font-size: 1.10vw;
+    }
+  }
+  .underline--magical {
+    background-image: linear-gradient(120deg, #052049 0%, #8fd3f4 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 0.2em;
+    background-position: 0 82%;
+    transition: background-size 0.25s ease-in;
+    &:hover {
+      background-size: 100% 88%;
+    }
+  }
+
+.présentation{
+    font-size: 2vw;
+    text-align: center;
+}
+
+.dev{
+    font-size: 25px;
+    background-position ;
+    text-align: left ;
+}
+
+  .title{
+    color: transparent;
+    font-size:100px;
+    background: url("https://e0.pxfuel.com/wallpapers/254/706/desktop-wallpaper-minecraft-stone-block-texture.jpg") repeat;
+    background-position: 40% 50%;
+    -webkit-background-clip: text;
+    position:relative;
+    text-align:center;
+    line-height:100px;
+    letter-spacing: -8px;
+  }
